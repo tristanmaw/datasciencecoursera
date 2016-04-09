@@ -1,3 +1,5 @@
+## Overall this code create a list of 4 functions to cache the index for effeciency. <<- is used to create internal variables
+
 ## This function creates a matrix that can give its inverse
 
 makeCacheMatrix <- function(x = matrix()) {
